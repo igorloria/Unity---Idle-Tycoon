@@ -1,0 +1,32 @@
+<gamedata>
+   <store>
+    <name>Coffee Shop</name>
+    <BaseStoreCost>1.5</BaseStoreCost>
+    <storeCount>0</storeCount>
+    <BaseStoreProfit>0.50</BaseStoreProfit>
+     <StoreTimer>1</StoreTimer>
+     <image>coffee</image>
+   <storeMultiplier>1.25</storeMultiplier>
+   <StoreTimerDivision>20</StoreTimerDivision>
+  </store>
+  <store>
+    <name>Pet Shop</name>
+    <BaseStoreCost>10</BaseStoreCost>
+    <storeCount>0</storeCount>
+    <BaseStoreProfit>0.75</BaseStoreProfit>
+    <StoreTimer>8</StoreTimer>
+  <image>shop</image>
+  <storeMultiplier>1.50</storeMultiplier>
+  <StoreTimerDivision>25</StoreTimerDivision>
+  </store>
+  <store>
+    <name>Hotel</name>
+    <BaseStoreCost>20</BaseStoreCost>
+    <storeCount>0</storeCount>
+    <BaseStoreProfit>1</BaseStoreProfit>
+    <StoreTimer>14</StoreTimer>
+  <image>hotel</image>
+  <storeMultiplier>2</storeMultiplier>
+  <StoreTimerDivision>30</StoreTimerDivision>
+  </store>
+</gamedata>
